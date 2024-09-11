@@ -57,11 +57,11 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhish-krishna&show_icons=true&locale=en&layout=compact" alt="adhish-krishna" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhish-krishna&show_icons=true&locale=en&layout=compact&theme=dark" alt="adhish-krishna" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adhish-krishna&show_icons=true&locale=en" alt="adhish-krishna" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhish-krishna&show_icons=true&locale=en&theme=dark" alt="adhish-krishna" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhish-krishna" alt="adhish-krishna" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhish-krishna&theme=dark" alt="adhish-krishna" />
 </p>
 
 ---
