@@ -51,7 +51,8 @@
 ### 🌱 Currently Learning:
 - Data Structures and Algorithms in C  
 - Deep Learning  
-- Mobile App Development  
+- Mobile App Development
+- Object Oriented Programming in Java
 
 ---
 
