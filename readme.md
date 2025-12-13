@@ -61,14 +61,6 @@
 
 ---
 
-### 🌱 Currently Learning:
-- Data Structures and Algorithms in C  
-- Deep Learning  
-- Mobile App Development
-- Object Oriented Programming in Java
-
----
-
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhish-krishna&show_icons=true&locale=en&layout=compact&theme=dark" alt="adhish-krishna" />
@@ -89,5 +81,6 @@
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
+
 
 
