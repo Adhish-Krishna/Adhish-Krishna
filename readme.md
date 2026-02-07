@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me:
 <p align="center">
-  I'm Adhish Krishna S, a 2nd-year Computer Science & Engineering (AI & ML) student at PSG College of Technology, Coimbatore. I have a passion for software development and artificial intelligence.
+  I'm Adhish Krishna S, a 3rd-year Computer Science & Engineering (AI & ML) student at PSG College of Technology, Coimbatore. I have a passion for software development and artificial intelligence.
 </p>
 
 <a align="center" href="https://adhish-krishna.github.io/Portfolio/">Portfolio Website</a>
@@ -81,6 +81,7 @@
     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
+
 
 
 
